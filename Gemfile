@@ -17,6 +17,10 @@ gem 'sass-rails'
 gem 'simple_form'
 gem 'uglifier'
 
+gem 'wx_pay'
+gem 'rqrcode'
+gem 'money-rails'
+
 group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'
